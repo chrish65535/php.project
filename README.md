@@ -2,7 +2,5 @@
 
 # php.project
 
-php:
-	- 8.0
-	- 7.4
-	- 7.2
+php: 7.2, 7.4, 8.0
+phpunit: ^8
